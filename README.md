@@ -2,11 +2,8 @@
 
 <h1>Olá! Me chamo Paulo Victor Sousa Santos 😀✌️</h1>
 
-<!--
-**Paulzzrx/Paulzzrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-- 🌱 Estou estudando atualmente <b>Desenvolvimento Web</b>
+- 🌱 Estou estudando atualmente <b>Desenvolvimento de Sistemas</b>
 - 📫 Contate-me através do email: <b>paulov.ssantos012@gmail.com</b>
 
 <h2>Estatísticas no GitHub</h2>
