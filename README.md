@@ -3,7 +3,7 @@
 <h1>Olá! Me chamo Paulo Victor Sousa Santos 😀✌️</h1>
 
 
-- 🌱 Estou estudando atualmente <b>Desenvolvimento de Sistemas</b>
+- 🌱 Estou estudando atualmente <b>Desenvolvimento de Sistemas</b>!
 - 📫 Contate-me através do email: <b>paulov.ssantos012@gmail.com</b>
 
 <h2>Estatísticas no GitHub</h2>
